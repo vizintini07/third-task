@@ -12,7 +12,7 @@ public class ChildrenTicket {
         }
 
         public float AllPrice() {
-            return getTicketPrice() * getDiscount() * getNumberOfTickets() / 100;
+            return (getTicketPrice() - (getTicketPrice()*getDiscount()/ 100)) * getNumberOfTickets();
         }
     public float getTicketPrice() {
 

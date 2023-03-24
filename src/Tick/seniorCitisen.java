@@ -9,7 +9,7 @@ package Tick;
         this.number = number;
     }
      public float AllPrice(){
-         return getTicketPrice() * getDiscount() * getNumberOfTickets() / 100;
+         return (getTicketPrice() - (getTicketPrice()*getDiscount()/100)) * getNumberOfTickets() ;
     }
      public float getTicketPrice() {
 
