@@ -16,18 +16,8 @@ public class DefaultTickets {
 
         return price;
     }
-
-    public void setTicketPrice(float ticketPrice) {
-        this.price = ticketPrice;
-    }
-
     public int getNumberOfTickets() {
         return (int) number;
-    }
-
-    public void setNumberOfTickets(int numberOfTickets) {
-        this.number = numberOfTickets;
-
     }
 }
 

@@ -18,24 +18,14 @@ public class ChildrenTicket {
 
         return price;
     }
-
     public float getDiscount() {
 
             return discount;
     }
-
-    public void setTicketPrice(float ticketPrice) {
-        this.price = ticketPrice;
-    }
-
     public int getNumberOfTickets() {
         return (int) number;
     }
 
-    public void setNumberOfTickets(int numberOfTickets) {
-        this.number = numberOfTickets;
-
-    }
 }
 
 
