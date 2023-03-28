@@ -1,9 +1,9 @@
 package Tick;
- public class seniorCitisen {
+ public class SeniorCitisen {
         float price;
         float discount;
         float number;
-    public seniorCitisen(float price, float discount, float number) {
+    public SeniorCitisen(float price, float discount, float number) {
         this.price = price;
         this.discount = discount;
         this.number = number;

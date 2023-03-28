@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44ff5d8f-421a-4ec3-98b2-c8a4531a818e" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tick/ChildrenTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tick/ChildrenTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tick/seniorCitisen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tick/seniorCitisen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Tolya/Desktop/FourthLessonTrainTicketsGroup-master"
+    "last_opened_file_path": "D:/Projects/third task"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679677958622</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1679678504795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679678504795</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <created>1679678705621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679678705621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
